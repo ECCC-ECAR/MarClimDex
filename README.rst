@@ -15,6 +15,6 @@ Download MarClimEX
 Contact Us
 ------------
 
-* I am Yang Feng at `Extremes and Climate Applications Research Section`_ of Environment and Climate Change Canada are the current maintainer of MarClimEX. You can contact me at yang.feng@canada.
+* I am Yang Feng at `Extremes and Climate Applications Research Section`_ of Environment and Climate Change Canada are the current maintainer of MarClimEX. You can contact me at yang.feng@ec.gc.ca.
 
 .. _Extremes and Climate Applications Research Section: https://github.com/ECCC-ECAR

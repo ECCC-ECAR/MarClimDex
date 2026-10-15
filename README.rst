@@ -9,12 +9,12 @@ Download MarClimEX
 * `MarClimEX Package`_
 * `MarClimEX UserManual`_
 
-.. _MarClimEX Package : https://github.com/ECCC-CDAS/MarClimDex/blob/master/MarClimEX_0.1.tar.gz
-.. _MarClimEX UserManual : https://github.com/ECCC-CDAS/MarClimDex/blob/master/MarClimDex_manual.pdf
+.. _MarClimEX Package : https://github.com/ECCC-ECAR/MarClimDex/blob/master/MarClimEX_0.1.tar.gz
+.. _MarClimEX UserManual : https://github.com/ECCC-ECAR/MarClimDex/blob/master/MarClimDex_manual.pdf
 
 Contact Us
 ------------
 
-* I am Yang Feng at `Climate Data and Analysis Section`_ of Environment and Climate Change Canada are the current maintainer of MarClimEX. You can contact me at yang.feng@canada.
+* I am Yang Feng at `Extremes and Climate Applications Research Section`_ of Environment and Climate Change Canada are the current maintainer of MarClimEX. You can contact me at yang.feng@canada.
 
-.. _Climate Data and Analysis Section: https://github.com/ECCC-CDAS
+.. _Extremes and Climate Applications Research Section: https://github.com/ECCC-ECAR
